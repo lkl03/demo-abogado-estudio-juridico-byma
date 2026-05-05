@@ -1,2 +1,7 @@
-# demo-abogado-estudio-juridico-byma
-Demo web para Abogado - Estudio juridico Byma — diseñada por eterlab.
+# Abogado - Estudio juridico Byma
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
